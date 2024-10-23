@@ -9,7 +9,7 @@ class Funciones:
             return False
     
     def calorie_count(calorie_list: list):
-        
+        if isinstance(calorie_list, list)
         
             
         
